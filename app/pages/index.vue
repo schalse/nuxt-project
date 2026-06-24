@@ -5,7 +5,8 @@
             <NuxtLink to="/contact">Contact</NuxtLink><br>
             <NuxtLink to="/products">Products Page</NuxtLink><br>
             <NuxtLink to="/blogs">blogs</NuxtLink><br>
-            <NuxtLink to="/list">To Do list</NuxtLink><br>
+            <NuxtLink to="/list">To Do</NuxtLink><br>
+            <NuxtLink to="/piniaexample">Pinia</NuxtLink><br>
             
 
         </h2>
